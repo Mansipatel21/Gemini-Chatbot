@@ -21,7 +21,3 @@ The project securely manages API keys using Streamlit Secrets and maintains chat
 - Python
 - Streamlit
 - Google Generative AI
-
----
-
-## 📂 Project Structure
